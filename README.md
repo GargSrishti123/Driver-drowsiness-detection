@@ -24,5 +24,5 @@ The following libraries are used in this Project:
 - Matplotib
 - Seaborn
 - Tensorflow
-##  REquirements
+##  Requirements
 Before starting, you need to have basic Machine Learning libraries installed.
